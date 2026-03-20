@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+ydata-profiling
+streamlit
+pydantic
+time
+typing
+dataclasses
